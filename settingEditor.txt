@@ -1,0 +1,1 @@
+"This file is used to, configure the git's default editor and when we want to write more than one or two lines in the commit message, so when we use commit, git willl open up VS code to write the commit message"

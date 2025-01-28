@@ -1,0 +1,4 @@
+This text is used to show the ammend feature of the git.
+
+When we used the commit before this, let's say bymistake this was forgotten to add in the commit,so now we are going to use use git commit --ammend so that within the 10 mins of previous commit then this new file would be added to that to that commit
+  
